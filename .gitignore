@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# audit data: Chrome profiles hold logged-in Google sessions, never commit
+audit/
